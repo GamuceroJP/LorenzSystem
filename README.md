@@ -9,16 +9,12 @@ been known that as the difference between these two temperatures is increased, t
 flow to chaotic flow. This prompet him to consider a greatly simplified version of the Navier-Stokes equations as applied to this particular problem. Indeed, he 
 grossly versimplified the problem as he reduced it to only three equations:
 
-$
-\dfrac{dx}{dt}=\sigma(y-x),
-$
+<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dx}{dt}=\sigma(y-x),>
+<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dy}{dt}=-xz+rx-y,>
+<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dz}{dt}=xy-bz,>
 
-$
-\dfrac{dy}{dt}=-xz+rx-y,
-$
-
-$
-\dfrac{dz}{dt}=xy-bz,
-$
-where the Lorenz variables $x,y,z$ are derived from temperature, density and velocity variables in the original Navier-Stokes equations, and $\sigma, r, b$ are
-measures of the temperature difference across the fluid and other fluid parameters. 
+where the Lorenz variables 
+<img src="https://render.githubusercontent.com/render/math?math=x,y,z>
+are derived from temperature, density and velocity variables in the original Navier-Stokes equations, and 
+<img src="https://render.githubusercontent.com/render/math?math=\sigma, r, b> 
+are measures of the temperature difference across the fluid and other fluid parameters. 
