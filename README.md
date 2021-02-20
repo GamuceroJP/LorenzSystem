@@ -10,7 +10,7 @@ flow to chaotic flow. This prompted him to consider a greatly simplified version
 grossly versimplified the problem as he reduced it to only three equations:
 
 <img src="https://render.githubusercontent.com/render/math?math=\dfrac{dx}{dt}=\sigma(y-x)">
-<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dy}{dt}=-xz+rx-y">
+<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dy}{dt}=-xz\plus rx-y">
 <img src="https://render.githubusercontent.com/render/math?math=\dfrac{dz}{dt}=xy-bz">
 
 where the Lorenz variables 
