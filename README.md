@@ -9,12 +9,12 @@ been known that as the difference between these two temperatures is increased, t
 flow to chaotic flow. This prompted him to consider a greatly simplified version of the Navier-Stokes equations as applied to this particular problem. Indeed, he 
 grossly versimplified the problem as he reduced it to only three equations:
 
-<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dx}{dt}=\sigma(y-x)">
-<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dy}{dt}=-xz\plus rx-y">
-<img src="https://render.githubusercontent.com/render/math?math=\dfrac{dz}{dt}=xy-bz">
+![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdx%7D%7Bdt%7D%3D%5Csigma%28y-x%29) 
+![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdy%7D%7Bdt%7D%3D-xz&plus;rx-y) 
+![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdz%7D%7Bdt%7D%3Dxy-bz) 
 
 where the Lorenz variables 
-<img src="https://render.githubusercontent.com/render/math?math=x, y, z">
+![equation](https://latex.codecogs.com/gif.latex?x%2C%20y%2C%20z)
 are derived from temperature, density and velocity variables in the original Navier-Stokes equations, and 
-<img src="https://render.githubusercontent.com/render/math?math=\sigma, r, b"> 
+![equation](https://latex.codecogs.com/gif.latex?%5Csigma%2C%20r%2C%20b)
 are measures of the temperature difference across the fluid and other fluid parameters. 
