@@ -11,7 +11,7 @@ grossly versimplified the problem as he reduced it to only three equations:
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdx%7D%7Bdt%7D%3D%5Csigma%28y-x%29) \
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdy%7D%7Bdt%7D%3D-xz&plus;rx-y) \
-![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdz%7D%7Bdt%7D%3Dxy-bz) \
+![equation](https://latex.codecogs.com/gif.latex?%5Cdfrac%7Bdz%7D%7Bdt%7D%3Dxy-bz) 
 
 where the Lorenz variables 
 ![equation](https://latex.codecogs.com/gif.latex?x%2C%20y%2C%20z)
