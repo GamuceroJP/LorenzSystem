@@ -21,10 +21,10 @@ are measures of the temperature difference across the fluid and other fluid para
 
 ## Phase space x vs. z
 
-<img src = " LorenzSystem/lorenz1.png ">\
-<img src = " LorenzSystem/lorenz2.png " >\
-<img src = " LorenzSystem/lorenz3.png " >\
-<img src = " LorenzSystem/Lorenz.png ">\
+<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz1.png ">\
+<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz2.png " >\
+<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz3.png" >\
+<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/Lorenz.png ">\
 
 
 
