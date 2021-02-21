@@ -20,11 +20,7 @@ are derived from temperature, density and velocity variables in the original Nav
 are measures of the temperature difference across the fluid and other fluid parameters. 
 
 ## Phase space x vs. z
-
-<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz1.png ">\
-<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz2.png " >\
-<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/lorenz3.png" >\
-<img src = " https://github.com/GamuceroJP/LorenzSystem/blob/main/Lorenz.png ">\
+![Test Image 1](lorenz1.png)
 
 
 
