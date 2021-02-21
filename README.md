@@ -1,6 +1,6 @@
 <font color='gray' size=4>
     
-# The Lorenz System
+# Lorenz System
 
 ## About the Lorenz System
 Atmospheric scientist E.N. Lorenz considered the Rayleigh-Bénard problem, which concerns a fluid in a container whose top and bottom surfaces are held at different 
@@ -18,6 +18,15 @@ where the Lorenz variables
 are derived from temperature, density and velocity variables in the original Navier-Stokes equations, and 
 ![equation](https://latex.codecogs.com/gif.latex?%5Csigma%2C%20r%2C%20b)
 are measures of the temperature difference across the fluid and other fluid parameters. 
+
+## Phase space x vs. z
+
+<img src = " LorenzSystem/lorenz1.png ">\
+<img src = " LorenzSystem/lorenz2.png " >\
+<img src = " LorenzSystem/lorenz3.png " >\
+<img src = " LorenzSystem/Lorenz.png ">\
+
+
 
 [Wiki](https://en.wikipedia.org/wiki/Lorenz_system)\
 [Computational Physics, Nicholas J. Giordano](https://www.google.com/search?q=Computational+Physics,+Nicholas+J.+Giordano&source=lmns&bih=626&biw=1366&client=firefox-b-d&hl=es&sa=X&ved=2ahUKEwjE6Ke22_nuAhXDa6wKHfJHAksQ_AUoAHoECAEQAA)
