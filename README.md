@@ -23,7 +23,6 @@ are measures of the temperature difference across the fluid and other fluid para
 ![Test Image 1](lorenz1.png)
 ![Test Image 2](lorenz2.png)
 ![Test Image 3](lorenz3.png)
-![Test Image 4](Lorenz.png)
 
 
 
