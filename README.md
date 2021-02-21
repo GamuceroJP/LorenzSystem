@@ -19,6 +19,6 @@ are derived from temperature, density and velocity variables in the original Nav
 ![equation](https://latex.codecogs.com/gif.latex?%5Csigma%2C%20r%2C%20b)
 are measures of the temperature difference across the fluid and other fluid parameters. 
 
-[Wiki](https://en.wikipedia.org/wiki/Lorenz_system)
+[Wiki](https://en.wikipedia.org/wiki/Lorenz_system)\
 [Computational Physics, Nicholas J. Giordano](https://www.google.com/search?q=Computational+Physics,+Nicholas+J.+Giordano&source=lmns&bih=626&biw=1366&client=firefox-b-d&hl=es&sa=X&ved=2ahUKEwjE6Ke22_nuAhXDa6wKHfJHAksQ_AUoAHoECAEQAA)
 
